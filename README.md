@@ -21,13 +21,13 @@ a good video showing how (https://www.youtube.com/watch?v=SKM0BB0F02Q)
 ## Connect To Amazon EC2 With PuTTY On Windows
 First download Putty.exe and puttygen.exe (https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
 
-Run puttygen.exe then click and Load -> choose your Key Pair -> save private Key
+ - Run puttygen.exe then click and Load -> choose your Key Pair -> save private Key
 
-run Putty.exe insert ip add of your istance 
-(On EC2 Dashboard -> Instances -> Connect -> item Connect to your instance using its Public DNS)
-on Conection -> data inser the user "ec2-user"
-on SSH ->Auth choose the .ppk file that u just create
-return on session choose a name and save
+ - Run Putty.exe insert ip add of your istance 
+(EC2 Dashboard -> Instances -> Connect -> item 4.Connect to your instance using its Public DNS)
+
+   On Conection -> data inser the user "ec2-user" and SSH ->Auth choose the .ppk file that u just create
+   return on session choose a name and save it.
 
 Done!!
 
