@@ -32,4 +32,8 @@ First download Putty.exe and puttygen.exe (https://www.chiark.greenend.org.uk/~s
 Done!!
 
  a good video showing how https://www.youtube.com/watch?v=bi7ow5NGC-U
+ 
+ ## Update Packages
+ 
+ sudo  yum update
 
