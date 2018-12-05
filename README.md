@@ -16,7 +16,7 @@ On EC2 Dashboard -> Launch Instance
 
 Done!!
 
-a good video showing how (https://www.youtube.com/watch?v=SKM0BB0F02Q)
+a good video showing how https://www.youtube.com/watch?v=SKM0BB0F02Q
 
 ## Connect To Amazon EC2 With PuTTY On Windows
 First download Putty.exe and puttygen.exe (https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
@@ -31,5 +31,5 @@ First download Putty.exe and puttygen.exe (https://www.chiark.greenend.org.uk/~s
 
 Done!!
 
-
+ a good video showing how https://www.youtube.com/watch?v=bi7ow5NGC-U
 
